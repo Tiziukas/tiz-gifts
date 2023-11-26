@@ -1,4 +1,4 @@
-tiz-id - Gift System
+tiz-gifts - Gift System
 
 ## Dependencies
 * ox_lib - https://github.com/overextended/ox_lib
