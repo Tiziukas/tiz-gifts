@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS `giftsreceived` (
+    `id` VARCHAR(100) NULL DEFAULT NULL, --
+    `received` VARCHAR(100) NULL DEFAULT NULL
+);

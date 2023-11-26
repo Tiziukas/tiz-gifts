@@ -1,0 +1,5 @@
+['giftbox'] = {
+	label = 'Dovanele',
+	weight = 1000,
+	stack = false,
+},
